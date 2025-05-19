@@ -1,0 +1,4 @@
+"lastname", "salary", "location"
+'bob', 10000, 'CTG'
+'alice', 20000, 'CTG'
+'Zumba', 27000, 'CTG'
