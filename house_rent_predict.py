@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+
 # Data setup
 data = {
     'area': [1000, 800, 1200, 1500, 900, 1100],
