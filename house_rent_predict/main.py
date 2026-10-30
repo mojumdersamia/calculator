@@ -26,5 +26,3 @@ predicted_price = model.predict([[Area]])
 
 #output
 print(f'Predicted Price: TK {predicted_price[0]:,.2f}')
-#  
-# 
