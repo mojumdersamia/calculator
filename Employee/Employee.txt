@@ -1,6 +1,0 @@
-"lastname", "salary", "location"
-'bob', 10000, 'CTG'
-'alice', 20000, 'CTG'
-'Christian', 23000, 'DHK'
-'Zumba', 27000, 'CTG'
-'nara', 30000, 'DHK'
